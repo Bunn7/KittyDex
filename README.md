@@ -22,4 +22,4 @@ I mainly made this for fun/something to do. But I'd say it's useful incase someo
 **What'ja listen to when makin this?**<br>
 <a href="https://soundcloud.com/twisted-events/reactor-uk-hardcore-podcast-005-rescue-mc-steel">this</a> and <a href="https://soundcloud.com/raversreunited/legendspromomix">that.</a><br>
 <br>
-<sup>oki byebye<p>(\/)</p><br><p>('w^)</p></sup>
+<sup>oki byebye</sup>
