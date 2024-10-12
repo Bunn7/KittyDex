@@ -6,17 +6,17 @@ img {
     margin-right: 50%;
     margin-left: 25%;
     margin-top: -8%;
-    filter: drop-shadow(1px 0px 10px rgb(0, 0, 0));/*dark version will be pure white.*/
+    filter: drop-shadow(1px 0px 10px rgb(0, 0, 0));
   }
 h1 {
-    color: #2a2c1f;/*dark version will be #c4bfda.*/
+    color: #2a2c1f;
     font-family: monospace;
     margin-top: 20%;
     margin-left: 56.6%;
     margin-top: 15%;
 }
 h3 {
-    color: #2a2c1f;/*dark version will be #c4bfda.*/
+    color: #2a2c1f;
     font-style: bold;
     font-family: monospace;
     font-size: 19px;
@@ -25,7 +25,7 @@ h3 {
     margin-left: 50%;
 }
 p {
-    color: #2a2c1f;/*dark version will be #c4bfda.*/
+    color: #2a2c1f;
     font-style: bold;
     font-family: monospace;
     font-size: 19px;
