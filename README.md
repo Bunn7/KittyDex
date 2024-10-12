@@ -18,8 +18,8 @@ There's two versions a dark and a light mode, here's some examples.
 I mainly made this for fun/something to do. But I'd say it's useful incase someone want's to build off of it<br>
 (yes I'm pulling a suckless.)
 <br><br>
-**Fun stuff**<br>
-What'ja listen to when makin this?
+# Fun stuff<br>
+**What'ja listen to when makin this?**
 <a href="https://soundcloud.com/twisted-events/reactor-uk-hardcore-podcast-005-rescue-mc-steel">this</a> and <a href="https://soundcloud.com/raversreunited/legendspromomix">that.</a><br>
 <br>
 <sup>oki byebye</sup>
