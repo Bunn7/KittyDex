@@ -1,0 +1,59 @@
+body {
+    background-color: #000000; /*dark version will be pure black.*/
+}
+img {
+    display: block;
+    margin-right: 50%;
+    margin-left: 25%;
+    margin-top: -8%;
+    filter: drop-shadow(1px 0px 10px rgb(255, 255, 255));/*dark version will be pure white.*/
+  }
+h1 {
+    color: #c4bfda;
+    font-family: monospace;
+    margin-top: 20%;
+    margin-left: 56.6%;
+    margin-top: 15%;
+}
+h3 {
+    color: #c4bfda;
+    font-style: bold;
+    font-family: monospace;
+    font-size: 19px;
+    word-spacing: 60px;
+    margin-top: 1.5%;
+    margin-left: 50%;
+}
+p {
+    color: #c4bfda;
+    font-style: bold;
+    font-family: monospace;
+    font-size: 19px;
+    word-spacing: 60px;
+    margin-top: 1.5%;
+    margin-left: -93%;
+}
+hr {
+    margin-left: -5%;
+    width: 45%;
+}
+a {
+    color: #399bc5;
+}
+/*There's for sure a better way to do this...*/
+.move1 {
+    font-style: bold;
+    font-family: monospace;
+    font-size: 19px;
+    word-spacing: 60px;
+    margin-top: -8.8%;
+    margin-left: 13%;
+}
+.move2 {
+    font-style: bold;
+    font-family: monospace;
+    font-size: 19px;
+    word-spacing: 60px;
+    margin-top: -8.8%;
+    margin-left: 26.6%;
+}
