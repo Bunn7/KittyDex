@@ -19,7 +19,7 @@ I mainly made this for fun/something to do. But I'd say it's useful incase someo
 (yes I'm pulling a suckless.)
 <br><br>
 # Fun stuff<br>
-**What'ja listen to when makin this?**
+**What'ja listen to when makin this?**<br>
 <a href="https://soundcloud.com/twisted-events/reactor-uk-hardcore-podcast-005-rescue-mc-steel">this</a> and <a href="https://soundcloud.com/raversreunited/legendspromomix">that.</a><br>
 <br>
 <sup>oki byebye</sup>
