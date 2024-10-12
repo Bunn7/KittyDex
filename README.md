@@ -15,7 +15,7 @@ There's two versions a dark and a light mode, here's some examples.
 ![Dark](https://github.com/Bunn7/KittyDex/blob/main/Screenshots/Dark.png)
 <br><br>
 **Lol this actually looks like shit and doesnt work hardly.**<br>
-I mainly made this for fun/something to do. But I'd say it's useful incase someone want's to build off of it.<br>
+I mainly made this for fun/something to do. But I'd say it's useful incase someone want's to build off of it. <sup>hobby coding go brrrrrrrrr</sup><br>
 (yes I'm pulling a suckless.)
 <br><br>
 # Fun stuff<br>
